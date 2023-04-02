@@ -10,11 +10,6 @@ This is a solution to the [News homepage challenge on Frontend Mentor](https://w
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
-- [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 
 ## Overview
@@ -30,13 +25,13 @@ Users should be able to:
 ### Screenshot
 
 #### Desktop design
-![](./desktop.png)
+![](./resources/desktop.png)
 
 #### Mobile desing
 ##### Page
-![](./mobile.png)
+![](./resources/mobile.png)
 ##### Menu
-![](./mobile.menu.png)
+![](./resources/mobile.menu.png)
 
 
 ### Links
