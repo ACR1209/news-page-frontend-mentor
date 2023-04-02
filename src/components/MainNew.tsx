@@ -12,7 +12,7 @@ export default function MainNew(props: ArticleProp) {
           <img src={article.image?.src} alt={article.image?.alt}/>
         </picture>
         <div className='w-100 block lg:flex mt-8 lg:space-x-5 '>
-            <h1 className='text-6xl font-extrabold flex-1'>{article.title}</h1>
+            <h1 className='text-5xl font-extrabold flex-1'>{article.title}</h1>
             <div className='w-100 ml-0 px-0 lg:px-8 flex-1 flex flex-col text-left justify-between'>
                 <p className='text-md mb-5 lg:mb-0 text-grayishBlue-900'>{article.content}</p>
                 <button className='bg-softRed hover:bg-darkBlue font-bold text-offWhite tracking-[0.2rem] py-3 px-10 w-fit'>READ MORE</button>
